@@ -1,0 +1,179 @@
+/*font-family: 'PT Sans', sans-serif;*/
+/*body style start here*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size:16px;
+	color:#898989;
+}
+/*body style end here*/
+
+/*header style start here*/
+header{
+	background-color: #fcdb00;
+	padding:20px 0 30px;
+}
+/*header style end here*/
+
+/*menu style start here*/
+.menu{}
+.menu ul li{
+	padding: 0 35px;
+}
+.menu ul li:last-child{
+	padding-right: 0;
+}
+.menu ul li a{
+	font-size:22px;
+	font-weight: 700;
+	color:#010101;
+	
+}
+
+/*menu style end here*/
+/*Slider style start here*/
+.slider{
+	background-color: #fcdb00; 
+	padding: 30px 0 100px;
+}
+.slider_content{
+	padding: 50px 0 0;
+}
+.slider_content h1{
+	font-size: 32px;
+	font-weight: 700; 
+	color: #010101;
+	padding-bottom: 10px;
+}
+.slider_content h2{
+	font-size: 20px;
+	font-weight: 400;	
+	color: #313841;
+}
+.slider_content p{
+	font-size: 16px;
+	font-weight: 400;	
+	color: #555555;
+	padding: 10px 0 30px;
+}
+.slider_icon i{
+	font-size: 42px;
+    color: #010101;
+    margin-right:30px;
+}
+.c-indicator{    
+	bottom: -70px;
+}
+.c-indicator li{
+	width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+/*Slider style end here*/
+/*Service style start here*/
+.service{
+	padding: 100px 0 120px;
+}
+.title{
+	font-size: 32px;
+	color: #010101;
+	font-weight: 700;
+}
+.title_content{
+	font-size: 20px;
+	color: #313841;
+	font-weight: 400;
+	padding: 0 60px;
+}
+.single-icon{
+	font-size: 45px;
+	color:#010101;
+}
+.single-item{
+	margin-top:60px;
+}
+.single_content{
+	padding-top:6px;
+}
+.single-item h1{
+	font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.single-item p{
+	font-weight: 400;
+    font-size: 16px;
+    color: #898989;
+    letter-spacing: 1px;
+}
+/*service style end here*/
+/*contact style start here*/
+.contact{
+	background-color: #010101;
+	padding: 80px 0 60px;
+}
+.contact_title{
+	color: #fcdb00;
+}
+/*form style start here*/
+form{
+	padding-top:40px;
+
+}
+.c-form{
+	padding: 20px 0.75rem;
+}
+button{
+	background-color: #fcdb00;
+	outline: none;
+	font-size: 16px;
+	color:#010101;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 8px 20px;
+	text-align: center;
+	border:1px solid yellow;
+	border-radius: 4px;
+	
+}
+/*form style end here*/
+/*contact style end here*/
+/*icon style start here*/
+.c-padding{
+	padding:0 150px;
+}
+.all_icon{
+	padding: 20px 0 40px;
+	background-color: #010101; 
+}
+.contact_icon i{
+    font-size: 42px;
+    color: #fcdb00;
+}
+
+/*icon style end here*/
+/*footer style start here*/
+footer{
+background-color: #010101;
+padding:50px 0 100px;
+}
+address{
+	color:#ffffff;
+}
+.foot{
+    margin: 10px 40px;
+}
+footer ul li a{
+	text-decoration:none;
+	color: #ffffff;
+}
+footer ul li a:hover{
+	text-decoration:none;
+	color: #fcdb00;
+}
+/*footer style end here*/
+
+
+
+
+

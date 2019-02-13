@@ -1,0 +1,310 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+header{
+	padding:10px 0 10px;
+}
+/*header style end here*/
+/*menu style start here*/
+.menu{
+	text-align: right;
+}
+.menu ul li{	
+	padding-right: 0;
+}
+.menu ul li a{	
+	font-size: 18px;
+}
+
+/*menu style end here*/ 
+/*slider style start here*/ 
+.slider {    
+    padding: 30px 0 70px;
+}
+.slider_content{
+	padding:0;
+}
+.slider_content h1 {
+    font-size: 28px;
+    padding-bottom: 8px;
+}
+.slider_content h2 {
+    font-size: 18px;
+}
+.slider_content p{
+	text-align: justify;
+	padding:0;
+}
+.slider_icon i {
+    font-size: 34px;    
+    margin-right: 25px;
+}
+.c-indicator li {
+    width: 12px;
+    height: 12px;
+}
+/*slider style end here*/ 
+
+/*service style start here*/ 
+.title {
+    font-size: 28px;
+}
+.title_content { 
+	font-size: 18px;   
+    padding: 0;
+    text-align: justify;
+}
+.service{
+	padding: 40px 0 60px;
+}
+.single-icon {
+    font-size: 35px;
+}
+.single-item{
+	text-align: center;
+	margin-top: 20px;
+	padding:0 15px;
+}
+.single-item h1{
+	font-size: 20px;
+}
+.single-item p {
+    text-align: justify; 
+    padding: 0 25px;  
+}
+/*service style end here*/ 
+
+/*contact style start here*/
+.contact{
+	padding: 20px 0 0px;
+}
+.contact_icon i {
+    font-size: 36px;
+}
+form {
+    padding-top: 0px;
+}
+.button{
+	text-align: center;
+	padding-top: 10px;
+}
+/*contact style end here*/
+/*all icon style start here*/
+.all_icon {
+    padding: 25px 0
+}
+.c-padding{
+	padding:0 0px;
+}
+/*icon style end here*/
+/*all icon style end here*/
+/*footer style start here*/
+footer{
+padding:40px 0 70px;
+}
+.foot-1{
+ 	margin: 0px 30px;
+}
+.foot{
+    margin: 0px 35px;
+}
+/*footer style end here*/
+
+ }
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header style start here*/
+header{
+	padding:10px 0 10px;
+}
+/*header style end here*/
+/*menu style start here*/
+.menu{
+	text-align: right;
+}
+.menu ul li{	
+	padding-right: 0;
+}
+.menu ul li a{	
+	font-size: 20px;
+}
+
+/*menu style end here*/
+/*slider style start here*/
+.slider_content{
+	padding:0;
+}
+.slider_content h1 {
+    font-size: 19px;
+    padding-bottom: 0px;
+}
+.slider_content h2 {
+    font-size: 16px;
+}
+.slider_content p{
+	text-align: justify;
+	padding:0;
+}
+.slider_icon i {
+    font-size: 34px;    
+    margin-right: 25px;
+}
+.c-indicator li {
+    width: 13px;
+    height: 13px;
+}
+.slider {    
+    padding: 30px 0 80px;
+}
+/*slider style end here*/
+/*service style start here*/
+.title_content { 
+    font-size: 17px;   
+    padding: 0;
+}
+.service{
+	padding: 40px 0 60px;
+}
+.title{ 
+	font-size:19px;      
+}
+.single-icon {
+    font-size: 36px;
+}
+.single-item{
+	text-align: center;
+	margin-top: 20px;
+	padding:0 15px;
+}
+.single-item h1 {
+    font-size: 20px;
+}
+.single-item p {
+    text-align: justify;   
+}
+
+/*service style end here*/
+/*contact style start here*/
+.contact{
+	padding: 40px 0 30px;
+}
+.contact_icon i {
+    font-size: 36px;
+}
+/*contact style end here*/
+.c-padding{
+	padding:0 0px;
+}
+/*icon style end here*/
+footer {    
+    padding: 15px 0 60px;
+}
+.foot-1{
+ 	margin: 0 160px;
+}
+.foot{
+    margin: 0px 100px;
+}
+/*footer style end here*/
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header style start here*/
+header{
+	padding:10px 0 10px;
+}
+/*header style end here*/
+/*menu style start here*/
+.menu{
+	text-align: right;
+}
+.menu ul li{	
+	padding-right: 0;
+}
+.menu ul li a {
+    font-size: 20px;
+}
+/*menu style end here*/
+/*slider style start here*/
+.slider {
+    padding: 30px 0 80px;
+}
+.slider_content{
+	padding:0 0 0;
+}
+.slider_content h1{
+	font-size: 27px;
+}
+.slider_content h2{
+	font-size: 18px;
+
+}
+.slider_content p{
+	font-size: 15px;
+}
+.slider_icon i {
+    font-size: 36px;
+}
+.c-indicator li {
+    width: 13px;
+    height: 13px;
+}	
+/*slider style end here*/
+/*service style start here*/
+.service{
+	padding: 40px 0 60px;
+}
+.title{ 
+	font-size:27px;      
+}
+.title_content { 
+	font-size:18px;  
+    padding:0;
+}
+.single-item {
+    margin-top: 20px;
+}
+.single-icon {
+    font-size: 35px;    
+}
+.single-item h1 {
+    font-size: 18px;   
+}
+.single-item p {
+    font-size: 16px;   
+}
+
+/*service style end here*/
+/*contact style start here*/
+.contact{
+	padding: 40px 0 0px;
+}
+/*contact style end here*/
+/*icon style start here*/
+.c-padding{
+	padding:0 15px;
+}
+/*icon style end here*/
+/*footer style start here*/
+footer{
+padding:40px 0 70px;
+}
+.foot{
+    margin: 0px 10px;
+}
+/*footer style end here*/
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }

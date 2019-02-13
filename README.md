@@ -1,2 +1,3 @@
-# tinyone-1
-This is full responsive tinyone 1
+# tinyone_responsive
+This is full reponsive tinyone..
+https://nurnoby.github.io/tinyone_responsive/
